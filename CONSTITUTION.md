@@ -32,14 +32,14 @@ Flux's membership criteria are:
 
 ### Membership
 
-All Australian voters are eligible for membership. 
-There is no cost for membership.
-Each member is required to provide their name and address such that it matches the electoral roll.
-Other required details include methods of contact, either phone or email, or both.
-Their membership application is to be submitted through Flux's website, at voteflux.org.
-Members may resign by contacting the secretary directly, or through a resignation feature on the party's website (once it exists).
+* All Australian voters are eligible for membership. 
+* There is no cost for membership.
+* Each member is required to provide their name and address such that it matches the electoral roll.
+* Other required details include methods of contact, either phone or email, or both.
+* Their membership application is to be submitted through Flux's website, at voteflux.org.
+* Members may resign by contacting the secretary directly, or through a resignation feature on the party's website (once it exists).
 
-To retain membership, members will need to (once a year) confirm their details are up to date through an email notification.
+To retain membership, members must confirm that their details are up-to-date, once a year, via an email notification.
 Each time this happens their membership is valid for 1 year and they are granted voting rights within Flux's internal voting system.
 
 There are no obligations outside of maintaining membership.
@@ -72,7 +72,7 @@ They also have the responsibility for the carrying out of the administration, an
 
 #### Initialization
 
-Initially the roles will be filled as per the below:
+Initially the roles will be filled as follows:
 
 * Leader: Max Kaye
 * Deputy Leader: Nathan Spataro
@@ -91,31 +91,33 @@ They have no special roles, but form a close team to assist the Leader in managi
 #### The Leader
 
 Max Kaye is the initial leader. 
+The first term length of Leader is 5 years from the date of registration.
+
 In the case of the death of the Leader, the Deputy Leader becomes Leader and then appoints a new Deputy Leader of their choosing.
 
-The first term length of Leader is 5 years from the date of registration.
-For this period they are essentially a benevolent dictator.
-It is intended for this to be changed at a later date via amendment, before the 5 years have expired.
-
-If circumstances require the position of Leader to be filled but the Deputy Leader cannot take the position, the Leadership may elect a new Leader by whichever means they choose. If an impasse is reached a new Leader is randomly chosen from the Leadership.
+If circumstances require the position of Leader to be filled, but the Deputy Leader cannot take the position, the Leadership must select a new Leader within 14 days. If an impasse is reached, a new Leader is randomly chosen from the Leadership.
 
 The Leader may resign and appoint a new Leader during the initial 5 year period.
 
+> It is acknowledged that, for this initial period, the Leader is essentially a benevolent dictator.
+> A transition to a more democratic structure must be enacted via an amendment to this constitution before the 5 years have expired.
+
 #### Deputy Leader
 
-The Deputy Leader is chosen by the Leader for an ongoing appointment. The Leader may revoke the position of the Deputy Leader at their discretion.
+The Deputy Leader is chosen by the Leader for an ongoing appointment.
+The Leader may revoke the position of the Deputy Leader at their discretion.
 
 ### Administration
 
 #### Decision Making
 
 Decisions are made by the party Leader. 
-In their absence the Leadership may make decisions when at least 66% in agreement.
+In their absence, the Leadership may make decisions when at least 66% of the members agree.
 
-For the purposes of decision making a quorum is achieved when:
+For the purposes of decision making, a quorum is achieved when:
 
-* The Leader is present
-* The Deputy Leader and one other member of the Leadership is present
+* The Leader is present, and
+* The Deputy Leader and one other member of the Leadership is present, and
 * Three members of the Leadership are present
 
 The Leader may imbue any member with special authority for specific purposes, in which case decisions made by the delegate are treated as though they were made by the Leader.
@@ -124,35 +126,45 @@ The Leader may imbue any member with special authority for specific purposes, in
 
 The party is required to hold Annual General Meetings (AGMs) once per calendar year at a time of the Leadership's choosing.
 
-An AGM is to be chaired by the secretary and follow an agenda. The agenda is open for any member to add an item.
-Members will be notified by email at least 1 week before the AGM.
-The Leadership is required to be present where possible, and the meeting will be livestreamed to members.
-Members may request to be invited to the AGM.
-Only members who are invited by the Leadership may participate.
-The AGM does not have to occur in one physical place; an online AGM is okay.
+* An AGM is chaired by the secretary and must follow an agenda. The agenda is open for any member to add an item up until 24 hours before the time of the AGM.
+* Members will be notified by email at least 1 week before the AGM.
+* Attendance by members and Leaders may be by video-conferencing, or other telepresence type technology.
+* Members may request to be invited to the AGM.
+* Only members who are invited by the Leadership may participate.
+* The Leadership will not unreasonable exclude any member from the AGM.
+* The AGM does not have to occur in one physical place; an online AGM is okay.
 
 #### Party Meetings
 
 Party meetings may be called by the Leadership as per the section on decision making. 
-A quorum is required. 
-Members are not required to be notified.
+
+* A quorum is required. 
+* Members are not required to be notified.
 
 #### Handling of Assets
 
 Handling of assets is the responsibility of the Treasurer. 
-At their discretion other party members may handle assets.
-The Leader and Deputy Leader are entitled to handle assets.
+
+* At the Leadership's discretion, other nominated party members may handle assets.
+* The Leader and Deputy Leader are entitled to handle assets.
 
 #### Keeping of the party's accounts
 
-The Treasurer is responsible for managing the party's finances.
-A quorum can authorize spending of funds.
-Funds should be used only for the purposes of furthering the objectives of the party, and there is no other restriction on what funds may be spent on (except anything prohibited under Australian Law).
-The party agent is responsible for collating and submitting required documents to the AEC, and for keeping relevant party records for the times required by law.
+* The Treasurer is responsible for managing the party's finances.
+* A quorum can authorize spending of funds.
+* Funds may not be used in breach of Australian laws.
+* Funds must be used to further the objectives of the party.
+* There are no other restrictions on what funds may be spent on.
+* The party agent is responsible for collating and submitting required documents to the AEC, and for keeping relevant party records as required by law.
+* An up-to-date summary of the party's accounts will be maintained as a version-controlled public document.
 
 ## Amendments to this Constitution
 
 Amendments to this constitution can be made with the support of at least 66% of a quorum, or at the discretion of the party Leader.
+
+### Record of ammendments
+
+This document will be held under version control in a public manner such that previous versions may be inspected.
 
 ## Endorsed Candidates
 
@@ -160,8 +172,7 @@ Endorsed candidates are chosen by the Leader or by a quorum, though any candidat
 
 ## State and Territory Branches
 
-No state or territory branches are currently allowed. 
-This may be changed at a later date after registration through an amendment to the constitution.
+* No state, territory, or other branches are allowed.
 
 ## Internal Voting System
 
@@ -170,5 +181,5 @@ Flux will use an internal voting system to
 * Facilitate members participating in the parliamentary process
 * Facilitate minor parties productive participation without winning a seat
 
-The parameters and design choices of the system are left to the Leader, and not within the scope of this document.
+The parameters and design choices of the system are left to the Leader, and are not within the scope of this document.
 There is no requirement that the voting system for members is the same as the voting system for minor parties.
